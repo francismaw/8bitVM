@@ -1,3 +1,5 @@
+#ifndef CPU_H
+#define CPU_H
 #include <stdint.h>
 #include <stdio.h>
 
@@ -13,3 +15,4 @@ typedef struct CPU{
 
 
 // 8 
+#endif // CPU_H 
